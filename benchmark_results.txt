@@ -1,0 +1,59 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733248203.347665       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+Processes: 1, Average Execution Time: 17.7104 s, Average CPU Time: 17.5523 s
+--------------------------------------------
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733248735.439587       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733248735.439580       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+Processes: 2, Average Execution Time: 9.2809 s, Average CPU Time: 9.2322 s
+--------------------------------------------
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249015.544233       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249015.544244       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249015.544248       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249015.544456       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+Processes: 4, Average Execution Time: 4.7267 s, Average CPU Time: 4.7060 s
+--------------------------------------------
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.057827       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.058073       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.058862       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.058886       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.058942       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.058581       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.058663       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733249161.060569       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+Processes: 8, Average Execution Time: 3.9685 s, Average CPU Time: 3.6943 s
+--------------------------------------------
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.021570       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.022408       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.022585       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.022384       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.023169       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.026045       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.027634       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.028461       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.028872       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1733252093.036348       1 tfrt_cpu_pjrt_client.cc:349] TfrtCpuClient created.
+Processes: 10, Average Execution Time: 4.9759 s, Average CPU Time: 3.3658 s
